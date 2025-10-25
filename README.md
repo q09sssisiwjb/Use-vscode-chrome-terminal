@@ -2,6 +2,7 @@ Run VS Code in your browser using Hugging Face Spaces (completely free for CPU).
 
 
 ---
+✅✅✅ just upload the Dockerfile in huggingface repository
 
 🧱 Step 1: Create a New Space
 
